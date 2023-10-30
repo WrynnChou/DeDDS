@@ -1,0 +1,14 @@
+
+{
+
+  "data": "data/x_simulation.txt",
+
+  "label": "data/y_simulation.txt",
+
+  "subsampling_number": 1600,
+
+  "method": "LogisticRegression",
+
+  "Explained_variance_ratio_threshold": 3
+
+}

@@ -1,0 +1,22 @@
+
+{
+
+  "data": "data/x_simulation.txt",
+
+  "label": "data/y_simulation.txt",
+
+  "subsampling_number": 400,
+
+  "method": "ANN2",
+
+  "Explained_variance_ratio_threshold": 3,
+
+  "local_epoch": 3,
+
+  "batch": 40,
+
+  "global_epoch": 10,
+
+  "learning_rate": 0.01
+
+}

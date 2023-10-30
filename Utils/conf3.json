@@ -1,0 +1,14 @@
+
+{
+
+  "data": "data/x.txt",
+
+  "label": "data/y.txt",
+
+  "subsampling_number": 100,
+
+  "method": "LogisticRegression",
+
+  "Explained_variance_ratio_threshold": 2
+
+}

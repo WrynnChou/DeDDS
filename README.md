@@ -1,0 +1,1 @@
+# A Decentralized Model-Free Subsampling method for Federated Learning based on Uniform Design
